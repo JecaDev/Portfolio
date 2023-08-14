@@ -13,6 +13,8 @@ Essa é minha página Web reservada para o meu currículo!
 
 * Flex-box
 
+* Responsividade com JS
+  
 ## Feito por:
 
 ### Jean Carlos Macêdo Silva
