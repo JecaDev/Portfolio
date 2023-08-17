@@ -6,9 +6,11 @@ Bem vindo ao meu projeto de portfólio.
 ![Print-Index](assets/images/Captura%20da%20Web_17-8-2023_81220_127.0.0.1.jpeg)
 
 ##
+
 ![Print-About](assets/images/Captura%20da%20Web_17-8-2023_81244_127.0.0.1.jpeg)
 
 ##
+
 ![Print-Curriculo](assets/images/Captura%20da%20Web_17-8-2023_8133_127.0.0.1.jpeg)
 
 
