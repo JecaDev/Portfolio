@@ -3,9 +3,12 @@ Bem vindo ao meu projeto de portfólio.
 
 Essa é minha página Web reservada para o meu currículo!
 
-![Captura da Web_5-7-2023_215646_127 0 0 1](https://github.com/JecaGod/Portfolio/assets/129800662/89e6d3a2-53e7-4fd6-b875-04e2759abdfc)
+![Print-Index](assets/images/Captura%20da%20Web_17-8-2023_81220_127.0.0.1.jpeg)
+![Print-About](assets/images/Captura%20da%20Web_17-8-2023_81244_127.0.0.1.jpeg)
+![Print-Curriculo](assets/images/Captura%20da%20Web_17-8-2023_8133_127.0.0.1.jpeg)
 
-## Ferramentas utilizadas:
+
+## Técnicas e Ferramentas utilizadas:
 
 * HTML
 
@@ -13,12 +16,13 @@ Essa é minha página Web reservada para o meu currículo!
 
 * Flex-box
 
-* Responsividade com JS
+* Responsividade
   
 ## Feito por:
 
 ### Jean Carlos Macêdo Silva
 
 ### Linkedin: https://www.linkedin.com/in/jean-carlos-macedo-silva-b69532239
+### Instagram: https://www.instagram.com/jean.wvz/
 
 ```

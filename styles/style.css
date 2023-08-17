@@ -91,7 +91,7 @@ strong{
 }
 
 .apresentacao__links{
-    gap: 16px;
+    gap: 1px;
     display: flex;
     justify-content: space-between;
 }
@@ -124,7 +124,7 @@ strong{
     border: 2px solid var(--cor-terciaria);
     width: 30vh;
     text-align: center;
-    border-radius: 10px;
+    
     font-size: var(--tamanho-fonte);
     padding: 21.5px 0;
     font-family: var(--fonte-texto);
